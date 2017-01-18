@@ -1,5 +1,5 @@
 /**
- * Created by sulian on 13-10-31.
+ * Created by sulian on 13-10-31.changed
  * 工具类
  */
 var fs = require('fs');
