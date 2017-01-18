@@ -1,5 +1,5 @@
 /**
- * Created by sulian on 13-10-31.change chagne1 changed4
+ * Created by sulian on 13-10-31.
  * 配置文件
  */
 
